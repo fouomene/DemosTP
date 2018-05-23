@@ -3,7 +3,7 @@ package com.objis.cameroun.service;
 public class Service implements IService {
 
 	public Service() {
-		// TODO Auto-generated constructor stub
+		
 	}
 
 	@Override
